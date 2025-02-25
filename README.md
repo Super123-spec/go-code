@@ -1,3 +1,3 @@
 # gocode
-资源
+个人资源
 MAKE FRIEND
