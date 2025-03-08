@@ -1,0 +1,17 @@
+missing module named resource - imported by posix, D:\桌面\python-公开课\抖音表白\dy_test.py
+missing module named posix - imported by os, D:\桌面\python-公开课\抖音表白\dy_test.py
+missing module named _posixsubprocess - imported by subprocess, D:\桌面\python-公开课\抖音表白\dy_test.py
+missing module named org - imported by pickle, D:\桌面\python-公开课\抖音表白\dy_test.py
+missing module named readline - imported by cmd, code, pdb, D:\桌面\python-公开课\抖音表白\dy_test.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\桌面\python-公开课\抖音表白\dy_test.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\桌面\python-公开课\抖音表白\dy_test.py
+missing module named _winreg - imported by platform, D:\桌面\python-公开课\抖音表白\dy_test.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, D:\桌面\python-公开课\抖音表白\dy_test.py
+missing module named 'java.lang' - imported by platform, D:\桌面\python-公开课\抖音表白\dy_test.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, D:\桌面\python-公开课\抖音表白\dy_test.py
+missing module named termios - imported by tty, D:\桌面\python-公开课\抖音表白\dy_test.py, getpass
+missing module named grp - imported by shutil, tarfile, D:\桌面\python-公开课\抖音表白\dy_test.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, D:\桌面\python-公开课\抖音表白\dy_test.py, netrc, getpass
+missing module named _dummy_threading - imported by dummy_threading, D:\桌面\python-公开课\抖音表白\dy_test.py
+missing module named 'org.python' - imported by copy, D:\桌面\python-公开课\抖音表白\dy_test.py, xml.sax
